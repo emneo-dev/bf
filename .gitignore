@@ -1,0 +1,5 @@
+# Build artifacts
+compile_commands.json
+bf
+build
+.cache
